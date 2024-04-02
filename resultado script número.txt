@@ -1,0 +1,18 @@
+Escolha um número entre 1 e 250
+Verificar números primos: É primo
+Caminho absoluto: /home/ec2-user/environment
+Escolha um número entre 1 e 250
+Verificar números primos: Múltiplo de 2
+Múltiplo de 3
+Múltiplo de 5
+Múltiplo de 6
+Múltiplo de 10
+Múltiplo de 15
+Múltiplo de 25
+Múltiplo de 30
+Múltiplo de 50
+Múltiplo de 75
+Tem 10 múltiplos acima de 2 e abaixo de 150
+Caminho absoluto: /home/ec2-user/environment
+Escolha um número entre 1 e 250
+Verificar números primos: 
